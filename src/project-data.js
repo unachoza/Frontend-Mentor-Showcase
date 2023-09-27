@@ -33,7 +33,7 @@ export const projectCardData = [
         img: "https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/h05k6b7pqcylnhsw8pqs.jpg",
         category: "junior",
         type: "component",
-        link: "",
+        link: "/Components/testimonials",
     }
 
 ]

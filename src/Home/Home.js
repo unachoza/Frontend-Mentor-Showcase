@@ -1,4 +1,4 @@
-import "./Home.scss"
+import "./Home.css"
 import Card from '../Card/Card'
 import { Link } from 'react-router-dom'
 import { projectCardData } from "../project-data"
